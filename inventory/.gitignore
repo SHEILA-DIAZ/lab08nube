@@ -1,0 +1,6 @@
+target/
+data/
+.maven-cache/
+.build-cache/
+.env
+*.log
